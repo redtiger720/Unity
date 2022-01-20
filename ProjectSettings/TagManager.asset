@@ -12,6 +12,9 @@ TagManager:
   - Knobs
   - Appliance
   - Base
+  - Wood
+  - Granite
+  - Hardware
   layers:
   - Default
   - TransparentFX
